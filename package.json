@@ -1,0 +1,19 @@
+{
+  "name": "airport-challenge",
+  "version": "1.0.0",
+  "description": "Challenge 1 - The Airport Challenge",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
